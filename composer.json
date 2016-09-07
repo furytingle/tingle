@@ -1,0 +1,16 @@
+{
+    "name": "tingle/outline",
+    "description": "PHP framework with no <7.0 dependencies",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Zhylinskiy Aleksandr",
+            "email": "zhylinskiy.aleksandr@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0"
+    }
+}
